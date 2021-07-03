@@ -1,0 +1,37 @@
+/* Author: Rama devi S */
+.parent1
+{
+    width: 100%;
+    height: 300px;
+    background-color: gray;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+/* * is used as selector it means we are going to apply this css to all elements */
+.child1
+{
+    width: 15%;
+    height: 150px;
+    background-color: red;
+}
+.parent2
+{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-bottom: 2%;
+
+    
+}
+.child2
+{
+    width: 20%;
+    height: 150px;
+    background-color: gray;
+    display: inline-block;
+    margin-left: 4%;  
+    margin-top: 2%;
+}
